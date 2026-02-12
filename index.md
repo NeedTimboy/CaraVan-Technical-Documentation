@@ -1,3 +1,5 @@
+---
+---
 # CaraVan - Technical Documentation
 
 **Version:** 0.4.1
@@ -390,3 +392,4 @@ All location access is optional and can be disabled in device settings.
 | 2/2/26 | 0.1.5 | Dark mode toggle, hide/delete account, privacy policy, messages tab, Ask a Builder, free vs premium comparison, premium PRO badges, post truncation, request an invite, welcome message |
 | 1/30/25 | 0.1.0 | Soft gradient, branding, likes and comments, swipable card stack | Now CaraVan
 | 1/23/26 | 0.0.1 | Project start, basic functionality, Care-A-Van
+
